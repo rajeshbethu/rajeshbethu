@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajeshbethu
-- 👀 I’m interested in webdevelopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning php framework CodeIgniter
 - 💞️ I’m looking to collaborate on any project on PHP
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/rajesh-bethu-1403b71aa/
